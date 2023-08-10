@@ -1,0 +1,10 @@
+^C:\USERS\SMARTECH\DESKTOP\ME\OPENCV_C++_PROJECTS\OPENCV_CPP_STARTER\BUILD\CMAKEFILES\BCFF9AF93757EE6FD3E0E9E5D28020AD\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/SMARTECH/Desktop/ME/opencv_c++_projects/opencv_cpp_starter -BC:/Users/SMARTECH/Desktop/ME/opencv_c++_projects/opencv_cpp_starter/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/SMARTECH/Desktop/ME/opencv_c++_projects/opencv_cpp_starter/build/cv_test.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
