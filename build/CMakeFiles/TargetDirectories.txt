@@ -1,9 +1,0 @@
-C:/Users/SMARTECH/Desktop/ME/opencv_c++_projects/opencv_cpp_starter/build/CMakeFiles/Experimental.dir
-C:/Users/SMARTECH/Desktop/ME/opencv_c++_projects/opencv_cpp_starter/build/CMakeFiles/Nightly.dir
-C:/Users/SMARTECH/Desktop/ME/opencv_c++_projects/opencv_cpp_starter/build/CMakeFiles/Continuous.dir
-C:/Users/SMARTECH/Desktop/ME/opencv_c++_projects/opencv_cpp_starter/build/CMakeFiles/NightlyMemoryCheck.dir
-C:/Users/SMARTECH/Desktop/ME/opencv_c++_projects/opencv_cpp_starter/build/CMakeFiles/cv_test.dir
-C:/Users/SMARTECH/Desktop/ME/opencv_c++_projects/opencv_cpp_starter/build/CMakeFiles/PACKAGE.dir
-C:/Users/SMARTECH/Desktop/ME/opencv_c++_projects/opencv_cpp_starter/build/CMakeFiles/RUN_TESTS.dir
-C:/Users/SMARTECH/Desktop/ME/opencv_c++_projects/opencv_cpp_starter/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/SMARTECH/Desktop/ME/opencv_c++_projects/opencv_cpp_starter/build/CMakeFiles/ZERO_CHECK.dir
